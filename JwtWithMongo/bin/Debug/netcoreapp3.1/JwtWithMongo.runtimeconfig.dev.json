@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ozcanbilgin/.dotnet/store/|arch|/|tfm|",
+      "/Users/ozcanbilgin/.nuget/packages"
+    ]
+  }
+}

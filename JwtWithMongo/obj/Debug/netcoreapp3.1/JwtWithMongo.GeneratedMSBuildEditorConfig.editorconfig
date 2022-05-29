@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = JwtWithMongo
+build_property.ProjectDir = /Users/ozcanbilgin/asp-demo/JwtWithMongo/
